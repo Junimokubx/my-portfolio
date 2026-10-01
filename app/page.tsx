@@ -63,7 +63,7 @@ const projects = [
       "/images/project/moneymate/moneymate_02.jpg",
       "/images/project/moneymate/moneymate_04.jpg",
     ],
-    videos: ["/images/project/moneymate/moneymate_03.mov"],
+    videos: ["/images/project/moneymate/moneymate_03.mp4"],
     details:
       "MoneyMate เป็นเว็บแอปพลิเคชันที่พัฒนาขึ้นเพื่อช่วยให้ผู้ใช้จัดการรายรับและรายจ่ายได้ง่ายขึ้น พร้อมแสดงยอดเงินคงเหลือ กราฟการใช้จ่าย เครื่องคำนวณ และฟังก์ชันเกี่ยวกับภาษี",
   },
